@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("../img/tierra.jpg") no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -360,7 +360,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #0563bb;
+  background: #1e74c6;
   bottom: 0;
   left: calc(50% - 20px);
 }
